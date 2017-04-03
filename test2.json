@@ -1,0 +1,19 @@
+[
+{
+	"type": "radio",
+	"question": "Сколько уровней заголовков поддерживает HTML?",
+	"answers": "3, 1, 5, 7, 6",
+	"rightAnswer": "6"
+},
+{
+	"type": "text",
+	"question": "Каким тегом в HTML задаётся абзац?",
+	"rightAnswer": "p"
+},
+{
+	"type": "check",
+	"question": "Какие из примеров не являються блочными элементами",
+	"answers": "TABLE, STRONG, TBODY, DIV, HTML, SPAN",
+	"rightAnswer": "STRONG, SPAN"
+}
+]

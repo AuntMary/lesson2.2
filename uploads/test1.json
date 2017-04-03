@@ -1,0 +1,20 @@
+[
+{
+	"type": "radio",
+	"question": "Какой тег должен открывать HTML-программу, а какой закрывать её?",
+	"answers": "html, title, div",
+	"rightAnswer": "html"
+},
+{
+	"type": "radio",
+	"question": "Из каких двух частей состоит HTML-программа?",
+	"answers": "head и div, body и html, head и body",
+	"rightAnswer": "head и body"
+},
+{
+	"type": "radio",
+	"question": "Как в HTML-коде задаётся название окна, в котором будет отображаться документ?",
+    "answers": "div, p, title",
+	"rightAnswer": "title"
+}
+]
